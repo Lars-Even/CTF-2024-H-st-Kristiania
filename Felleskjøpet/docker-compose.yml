@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  2024hst:
+    image: 2024hst
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - 41111:41111
