@@ -1,0 +1,45 @@
+Name: Felleskj pet
+Description: Hei, velkomme til felleskj pet, hva trenger du i dag? :-))
+
+
+
+
+
+
+
+```
+
+nc enforcer.no 41111
+
+nc enforcer.no 41112
+
+nc enforcer.no 41113
+
+nc enforcer.no 41114
+
+nc enforcer.no 41115
+
+nc enforcer.no 41116
+
+nc enforcer.no 41117
+
+nc enforcer.no 41118
+
+nc enforcer.no 41119
+
+nc enforcer.no 41120
+
+```
+
+
+
+
+Max Attempts: 0
+Value: 500
+Category: Web
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None

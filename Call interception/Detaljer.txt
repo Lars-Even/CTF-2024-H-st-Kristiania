@@ -1,0 +1,12 @@
+Name: Call interception
+Description: En av våre cyberoperatører har fanget ene halvdelen av samtalen, klarer du å finne lokasjonen hvor samtalen tar sted?
+
+Max Attempts: 0
+Value: 500
+Category: OSINT
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None

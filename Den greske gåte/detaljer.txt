@@ -1,0 +1,31 @@
+Name: Den greske g te
+Description: REFLECTOR - UKW B
+
+Rotor 1 - VI - position : A - RING : A
+
+Rotor 2 - 1 - position : Q - RING : A
+
+Rotor 3 - 111 - position : L - RING : A
+
+
+
+PLUGBOARD - BQ CR DI EJ KW MT OS PX UZ GH
+
+
+
+--------------------------------------------------------
+
+
+
+Ciphertext : 
+
+xgoff xqrrs pozpa ivkbe ptcgi mgarz ymcpk symbn pomzi ohxwb pxgkw jhtem vwgie rggkw txplp hzvwn uhvsu acmob jqxmo xhku
+
+
+
+Wir sind nicht aufzuhalten! Es lebe das R tsel <3 Obwohl sie ziemlich schnell Zugang bekamen
+
+
+Max Attempts: 0
+Value: 250
+Category: Crypto

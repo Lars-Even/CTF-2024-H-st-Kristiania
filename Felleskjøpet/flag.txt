@@ -1,0 +1,4 @@
+flag{c0f517c72b78e9404c29bbdde053df82}
+
+
+Det er dårlig input sanitering, og man kan skrive positive og negative verdier når man handler.

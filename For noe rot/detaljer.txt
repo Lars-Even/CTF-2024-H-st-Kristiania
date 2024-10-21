@@ -1,0 +1,4 @@
+Name: For noe rot ...
+Description: [Oppgave-For-Noe-Rot](http://172.26.17.101:2024/files/812ed17926620f76fbf26dd54a5d1322/Oppgave-CTF-for-noe-rot.pdf)
+Max Attempts: 0
+Value: 325

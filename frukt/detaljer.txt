@@ -1,0 +1,33 @@
+Name: frukt
+Description: fruits = [
+
+    "apple", "banana", "orange", "mango", "grape", "strawberry", "pineapple", "cherry", "blueberry", 
+
+    "watermelon", "pear", "peach", "plum", "kiwi", "papaya", "passionfruit", "dragonfruit", "pomegranate", 
+
+    "fig", "blackberry", "raspberry", "cantaloupe", "honeydew", "guava", "apricot", "nectarine", "persimmon", 
+
+    "tangerine", "clementine", "mandarin", "grapefruit", "lychee", "jackfruit", "durian", "elderberry", 
+
+    "gooseberry", "cranberry", "mulberry", "starfruit", "rambutan", "longan", "loganberry", "kumquat", "quince",
+
+    "soursop", "acerola", "olive", "jostaberry", "cloudberry", "boysenberry", "miracle fruit", "salak", 
+
+    "tamarind", "custard apple", "loquat", "yuzu", "marionberry", "ugli fruit", "satsuma", "jabuticaba", 
+
+    "bilberry", "physalis", "kiwano", "feijoa", "santol", "mangosteen", "durian", "sapodilla"
+
+]
+
+
+
+flag{c589e45df3bae4a268ecc89476cd9a6b}
+
+
+
+
+
+Flagget best r av tre frukter, klarer du og lage din egen ordliste? og bruteforce passordet??
+Max Attempts: 0
+Value: 500
+Category: Programmering

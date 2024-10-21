@@ -1,0 +1,5 @@
+flag{grande_mosquee_de_paris}
+
+
+
+Anbefaler regex flagg, ettersom det er variasjon i navngivelsen.

@@ -1,0 +1,16 @@
+Name: Finner du flagget p  bygget?
+Description: Det er gjemt et A4-ark p  bygget, finner du koden?
+
+
+
+
+
+La arket st  hvis du finner den 
+
+
+
+**Deler du flagget med andre f r du -500 poeng**
+Max Attempts: 0
+Value: 333
+Category: Introduksjon
+Type: standard

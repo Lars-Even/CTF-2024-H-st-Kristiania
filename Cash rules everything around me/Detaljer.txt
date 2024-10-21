@@ -1,0 +1,11 @@
+Name: Cash rules everything around me
+Description: En av våre agenter tok dette bildet på en flyplass, finner du ut hvor kofferten ble sendt?
+Max Attempts: 0
+Value: 500
+Category: OSINT
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None

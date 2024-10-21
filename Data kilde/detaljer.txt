@@ -1,0 +1,9 @@
+Name: Data kilde?
+Description: [Oppgave-CTF-data-kilde.pdf](http://172.26.17.101:2024/files/5ed0d2a4fc8b98ba824a10d0fe60381f/Oppgave-CTF-data-kilde.pdf)
+
+
+
+Husk gjerne   bruke gratis-hintet om du st r fast!
+Max Attempts: 0
+Value: 350
+Category: Encoding
