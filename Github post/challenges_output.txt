@@ -1,0 +1,523 @@
+ID: 3
+Name: aaa Velkommen
+Description: Velkommen til CTF. 
+
+
+#### Alle oppgaver kan løses uten verktøy, du vil ikke finne noen flag på denne nettsiden ved bruk av verktøy som nikto, nmap e.l.
+
+Kun små bokstaver, istedenfor mellomrom bruker du _
+
+flag{velkommen}
+Max Attempts: 0
+Value: 100
+Category: Introduksjon
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 4
+Name: Sherlock Holmes #1
+Description: Alle oppgavene i Sherlock Holmes serien kan løses med zip-filen fra dette settet!
+
+
+Hva er ip-addressen til anriperen?
+Max Attempts: 0
+Value: 200
+Category: Event Viewer
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 5
+Name: Felleskjøpet
+Description: Hei, velkomme til felleskjøpet, hva trenger du i dag? :-))
+
+
+
+```
+nc enforcer.no 41111
+nc enforcer.no 41112
+nc enforcer.no 41113
+nc enforcer.no 41114
+nc enforcer.no 41115
+nc enforcer.no 41116
+nc enforcer.no 41117
+nc enforcer.no 41118
+nc enforcer.no 41119
+nc enforcer.no 41120
+```
+
+
+Max Attempts: 0
+Value: 500
+Category: Web
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 6
+Name: Sherlock Holmes #2
+Description: Hvor mange brute-forcing forsøk var det på innloggingen?
+Max Attempts: 0
+Value: 200
+Category: Event Viewer
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 7
+Name: Sherlock Holmes #3
+Description: Hvilket verktøy var brukt for å få tilgang til serveren?
+Max Attempts: 0
+Value: 200
+Category: Event Viewer
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 8
+Name: Sherlock Holmes #4
+Description: Hvor mange enumererings forsøk var det med ```net.exe```?
+Max Attempts: 0
+Value: 200
+Category: Event Viewer
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 9
+Name: Sherlock Holmes #5
+Description: Hva var passordet som ble skapt for den nye kontoen?
+Max Attempts: 0
+Value: 200
+Category: Event Viewer
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 10
+Name: IT-support
+Description: Klarer du å hjelpe vår første kunde i dag?
+Max Attempts: 0
+Value: 500
+Category: OSINT
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 11
+Name: Stein Saks Papir
+Description: Klarer du å slå maskinen 25 ganger på rad i stein saks papir?
+
+```
+http://172.26.17.101:8080
+```
+Max Attempts: 0
+Value: 500
+Category: Web
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 12
+Name: Matryohska
+Description: En dukke inni en dukke inni en dukke inni en dukke inni en dukke
+Max Attempts: 0
+Value: 500
+Category: Skill issue
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 13
+Name: Triage
+Description: En ransomware operatør har fått laptoppen sin konfiskert, operatøren har brukt VPN og slettet mesteparten av dataen, klarer du å finne ip-en til DNS-server ved oppkobling til VPNen?
+Max Attempts: 0
+Value: 500
+Category: Digital Forensics
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 14
+Name: Sekken min!?
+Description: Hvor er sekken min? Vet du hvilket bygg den er i?
+Max Attempts: 0
+Value: 250
+Category: OSINT
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 15
+Name: Moo
+Description: Moooooooooooooooo
+Max Attempts: 0
+Value: 300
+Category: Skill issue
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 16
+Name: Half Life 3 !!1!11!!!1
+Description: Jeg kan ikke tro at half-life 3 kommer !11!!!!1!111!
+Max Attempts: 0
+Value: 333
+Category: Skill issue
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 17
+Name: Call interception
+Description: En av våre cyberoperatører har fanget ene halvdelen av samtalen, klarer du å finne lokasjonen hvor samtalen tar sted?
+
+
+Max Attempts: 0
+Value: 500
+Category: OSINT
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 18
+Name: Cash rules everything around me
+Description: En av våre agenter tok dette bildet på en flyplass, finner du ut hvor kofferten ble sendt?
+Max Attempts: 0
+Value: 500
+Category: OSINT
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 20
+Name: Hvorfor går tiden så fort??
+Description: Hvor er jeg? Hvilket år er det?
+
+**Hva er navnet på bygget forran meg?**
+Max Attempts: 0
+Value: 500
+Category: OSINT
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 21
+Name: Pokemon
+Description: Sjekk pokedexen din 
+Max Attempts: 0
+Value: 500
+Category: Crypto
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 22
+Name: frukt
+Description: fruits = [
+    "apple", "banana", "orange", "mango", "grape", "strawberry", "pineapple", "cherry", "blueberry", 
+    "watermelon", "pear", "peach", "plum", "kiwi", "papaya", "passionfruit", "dragonfruit", "pomegranate", 
+    "fig", "blackberry", "raspberry", "cantaloupe", "honeydew", "guava", "apricot", "nectarine", "persimmon", 
+    "tangerine", "clementine", "mandarin", "grapefruit", "lychee", "jackfruit", "durian", "elderberry", 
+    "gooseberry", "cranberry", "mulberry", "starfruit", "rambutan", "longan", "loganberry", "kumquat", "quince",
+    "soursop", "acerola", "olive", "jostaberry", "cloudberry", "boysenberry", "miracle fruit", "salak", 
+    "tamarind", "custard apple", "loquat", "yuzu", "marionberry", "ugli fruit", "satsuma", "jabuticaba", 
+    "bilberry", "physalis", "kiwano", "feijoa", "santol", "mangosteen", "durian", "sapodilla"
+]
+
+flag{c589e45df3bae4a268ecc89476cd9a6b}
+
+
+Flagget består av tre frukter, klarer du og lage din egen ordliste? og bruteforce passordet??
+Max Attempts: 0
+Value: 500
+Category: Programmering
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 23
+Name: ncap
+Description: Follow the stream
+Max Attempts: 0
+Value: 500
+Category: Digital Forensics
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 24
+Name: Den greske gåte
+Description: REFLECTOR - UKW B
+Rotor 1 - VI - position : A - RING : A
+Rotor 2 - 1 - position : Q - RING : A
+Rotor 3 - 111 - position : L - RING : A
+
+PLUGBOARD - BQ CR DI EJ KW MT OS PX UZ GH
+
+--------------------------------------------------------
+
+Ciphertext : 
+xgoff xqrrs pozpa ivkbe ptcgi mgarz ymcpk symbn pomzi ohxwb pxgkw jhtem vwgie rggkw txplp hzvwn uhvsu acmob jqxmo xhku
+
+Wir sind nicht aufzuhalten! Es lebe das Rätsel <3 Obwohl sie ziemlich schnell Zugang bekamen
+
+Max Attempts: 0
+Value: 250
+Category: Crypto
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 25
+Name: SevenSeas
+Description: Jeg er en by som bærer et kongelig navn,
+men jeg er ikke der hvor konger kaller hjem.
+Blant bølger og sjø, i en øde plass,
+
+Et sted der få kan komme til,
+og verden virker langt unna og still.
+med en vulkan som kunne brenne meg og svi verre.
+
+
+Husk negative fortegn :-)))
+Max Attempts: 0
+Value: 500
+Category: OSINT
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 26
+Name: LeakQuest
+Description: Jeg er en enkel setning, men kan gi deg makt,
+Gjennom meg kan du få tilgang til data uten å ha fått det sagt.
+Jeg sniker meg inn i strenger som ingen så,
+Og plutselig får jeg tilgang til alt som er rått.
+
+For med tegn og ord kan jeg manipulere,
+Databasens hemmeligheter kan jeg kopiere.
+Men pass på, for hvis du skriver meg feil,
+Kan systemet ditt krasje i en enorm feiltell.
+
+http://172.26.90.174:5000
+Max Attempts: 0
+Value: 250
+Category: Web
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 27
+Name: SSH
+Description: Du har klart å få tak i en privat SSH-nøkkel som angivelig skal gi deg tilgang til en server. Det ser ut som en enkel jobb å bruke denne nøkkelen for å logge deg inn via SSH. Men noe virker ikke helt riktig. Selv om nøkkelen ser ut til å være nesten komplett, møter du problemer når du prøver å bruke den.
+
+Det virker som at brukernavnet som skal brukes er: ctf@172.26.113.239
+Max Attempts: 0
+Value: 500
+Category: Skill issue
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 28
+Name: Finner du flagget på bygget?
+Description: Det er gjemt et A4-ark på bygget, finner du koden?
+
+
+La arket stå hvis du finner den 
+
+**Deler du flagget med andre får du -500 poeng**
+Max Attempts: 0
+Value: 333
+Category: Introduksjon
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 29
+Name: For noe rot ...
+Description: [Oppgave-For-Noe-Rot](http://172.26.17.101:2024/files/812ed17926620f76fbf26dd54a5d1322/Oppgave-CTF-for-noe-rot.pdf)
+Max Attempts: 0
+Value: 325
+Category: Cipher
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 30
+Name: Data kilde?
+Description: [Oppgave-CTF-data-kilde.pdf](http://172.26.17.101:2024/files/5ed0d2a4fc8b98ba824a10d0fe60381f/Oppgave-CTF-data-kilde.pdf)
+
+Husk gjerne å bruke gratis-hintet om du står fast!
+Max Attempts: 0
+Value: 350
+Category: Encoding
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 31
+Name: Gamification OOP
+Description: Er du klar for en "utfordring" som krever Java-kunnskaper og litt OOP?
+
+Fullfør spillet og hent ut flagget!
+Ikke så vanskelig som du tror, og er ment som en repetisjon til OOP :)
+
+Ta kontakt med @mada051 for URL
+Max Attempts: 0
+Value: 750
+Category: Programmering
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 32
+Name: Magisk header? What?
+Description: Merkelig, jeg sjekket en fil og fant følgende bytes:
+
+11001010 11111110 10111010 10111110
+
+A = Hvilket programmeringsspråk bruker den magiske headeren over?
+B = Hva er verdien i base 10?
+
+Formatet på flagget er flag{A_B}
+
+Max Attempts: 0
+Value: 150
+Category: Repetisjon
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 33
+Name: Litt mye enkoding ...
+Description: Begynn med følgende data, hvor du kan anta at du begynner med 8 ganger 8:
+
+R01ZVEdOUlhHUTNEU05TREdNWlRHTVJYR1EzRFNOU0RHTTNER05CV0lZM0RPTVpXR00yRE9OQldIRTNFR01aVEdNWkRPTkJXSEUzRUdNWlJHTTNBPT09PQ==
+
+Fortsett nedover "power of two" til du får noe som kan brukes som et flag{<resultat>}!
+Max Attempts: 0
+Value: 150
+Category: Encoding
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 34
+Name: Hva er det største tallet?
+Description: Hva er det største tallet en datamaskin kan lagre om vi kun har 4 bytes å jobbe med?
+Max Attempts: 0
+Value: 125
+Category: Repetisjon
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
+ID: 35
+Name: Hva heter arrangøren?
+Description: Hva heter arrangøren av CTF-en?
+Max Attempts: 0
+Value: 50
+Category: CybVest
+Type: standard
+State: visible
+Requirements: None
+Connection Info: None
+Next ID: None
+Attribution: None
+
