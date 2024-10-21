@@ -1,0 +1,10 @@
+#1
+flag{10.1.1.42}
+#2
+flag{32}
+#3
+flag{psexec}
+#4
+flag{3}
+#5
+flag{Susan123!}

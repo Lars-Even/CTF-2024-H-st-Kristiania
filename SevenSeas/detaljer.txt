@@ -1,0 +1,23 @@
+Name: SevenSeas
+Description: Jeg er en by som b rer et kongelig navn,
+
+men jeg er ikke der hvor konger kaller hjem.
+
+Blant b lger og sj , i en  de plass,
+
+
+
+Et sted der f  kan komme til,
+
+og verden virker langt unna og still.
+
+med en vulkan som kunne brenne meg og svi verre.
+
+
+
+
+
+Husk negative fortegn :-)))
+Max Attempts: 0
+Value: 500
+Category: OSINT

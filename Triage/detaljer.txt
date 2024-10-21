@@ -1,0 +1,5 @@
+Name: Triage
+Description: En ransomware operat r har f tt laptoppen sin konfiskert, operat ren har brukt VPN og slettet mesteparten av dataen, klarer du   finne ip-en til DNS-server ved oppkobling til VPNen?
+Max Attempts: 0
+Value: 500
+Category: Digital Forensics

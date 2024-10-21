@@ -1,0 +1,18 @@
+Name: Sherlock Holmes #1
+Description: Alle oppgavene i Sherlock Holmes serien kan l ses med zip-filen fra dette settet!
+
+Hva er ip-addressen til anriperen?
+
+
+Name: Sherlock Holmes #2
+Description: Hvor mange brute-forcing forsøk var det på innloggingen?
+
+
+Name: Sherlock Holmes #3
+Description: Hvilket verktøy var brukt for å få tilgang til serveren?
+
+Name: Sherlock Holmes #4
+Description: Hvor mange enumererings forsøk var det med ```net.exe```?
+
+Name: Sherlock Holmes #5
+Description: Hva var passordet som ble skapt for den nye kontoen?

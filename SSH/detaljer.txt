@@ -1,0 +1,9 @@
+Name: SSH
+Description: Du har klart   f  tak i en privat SSH-n kkel som angivelig skal gi deg tilgang til en server. Det ser ut som en enkel jobb   bruke denne n kkelen for   logge deg inn via SSH. Men noe virker ikke helt riktig. Selv om n kkelen ser ut til   v re nesten komplett, m ter du problemer n r du pr ver   bruke den.
+
+
+
+Det virker som at brukernavnet som skal brukes er: ctf@172.26.113.239
+Max Attempts: 0
+Value: 500
+Category: Skill issue
