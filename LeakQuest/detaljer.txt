@@ -1,0 +1,21 @@
+Name: LeakQuest
+Description: Jeg er en enkel setning, men kan gi deg makt,
+
+Gjennom meg kan du f  tilgang til data uten   ha f tt det sagt.
+
+Jeg sniker meg inn i strenger som ingen s ,
+
+Og plutselig f r jeg tilgang til alt som er r tt.
+
+
+
+For med tegn og ord kan jeg manipulere,
+
+Databasens hemmeligheter kan jeg kopiere.
+
+Men pass p , for hvis du skriver meg feil,
+
+Kan systemet ditt krasje i en enorm feiltell.
+
+Max Attempts: 0
+Value: 250

@@ -1,0 +1,5 @@
+Name: ncap
+Description: Follow the stream
+Max Attempts: 0
+Value: 500
+Category: Digital Forensics

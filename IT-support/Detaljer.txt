@@ -1,0 +1,5 @@
+Name: IT-support
+Description: Klarer du å hjelpe vår første kunde i dag?
+Max Attempts: 0
+Value: 500
+Category: OSINT

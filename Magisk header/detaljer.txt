@@ -1,0 +1,21 @@
+Name: Magisk header? What?
+Description: Merkelig, jeg sjekket en fil og fant f lgende bytes:
+
+
+
+11001010 11111110 10111010 10111110
+
+
+
+A = Hvilket programmeringsspr k bruker den magiske headeren over?
+
+B = Hva er verdien i base 10?
+
+
+
+Formatet p  flagget er flag{A_B}
+
+
+Max Attempts: 0
+Value: 150
+Category: Repetisjon

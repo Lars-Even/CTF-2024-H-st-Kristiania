@@ -1,0 +1,14 @@
+ID: 33
+Name: Litt mye enkoding ...
+Description: Begynn med f lgende data, hvor du kan anta at du begynner med 8 ganger 8:
+
+
+
+R01ZVEdOUlhHUTNEU05TREdNWlRHTVJYR1EzRFNOU0RHTTNER05CV0lZM0RPTVpXR00yRE9OQldIRTNFR01aVEdNWkRPTkJXSEUzRUdNWlJHTTNBPT09PQ==
+
+
+
+Fortsett nedover "power of two" til du f r noe som kan brukes som et flag{<resultat>}!
+Max Attempts: 0
+Value: 150
+Category: Encoding

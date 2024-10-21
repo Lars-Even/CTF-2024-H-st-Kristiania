@@ -1,0 +1,4 @@
+Name: Hva er det st rste tallet?
+Description: Hva er det st rste tallet en datamaskin kan lagre om vi kun har 4 bytes   jobbe med?
+Max Attempts: 0
+Value: 125
